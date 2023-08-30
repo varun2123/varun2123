@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varun2123
 - 👀 I’m interested in programing and software development 
-- 🌱 I’m currently learning C++, DSA 
+- 🌱 Currently I know cpp, java, DSA. Im also learning Full stack development.
 - 💞️ I’m looking to collaborate on building projects 
 - 📫 How to reach me:- varunsomani2102@gmail.com, https://www.linkedin.com/in/varun-somani-bb422223b
 
